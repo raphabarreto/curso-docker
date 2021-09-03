@@ -19,6 +19,6 @@
   "dependencies": {
     "bson": "^4.0.2",
     "lodash": "^4.17.19",
-    "mpath": "^0.6.0"
+    "mpath": "^0.8.4"
   }
 }
